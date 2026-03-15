@@ -13,7 +13,7 @@
 |------|------|
 | Mansi Jangid    | Strategy, Research, Product Design |
 | [Name 2]   | Development                        |
-| [Name 3]   | UI/UX Design                       |
+| Shivangi sahu   | UI/UX Design                       |
 
 **Solution:** RoziRaksha  
 **Repository:** github.com/Mansi29j/devtrails_2026  
